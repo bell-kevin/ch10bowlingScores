@@ -1,5 +1,18 @@
 # ch10bowlingScores
-Create a project with an array for 10 bowling scores. Write a function that accepts a pointer to the array to ask the user for the bowling scores. 
+
+Create a project with an array for 10 bowling scores. Write a function that accepts a pointer to the array to ask the user for the bowling scores. Write another function that accepts a pointer to the array to calculate the average of those scores and return the result to the main function to display. Write another function that accepts a pointer to the array to find the highest score in the array and return the result to the main function to display. Use pointer notation throughout the program.
+
+![Ch 10 Bowling](https://github.com/bell-kevin/ch10bowlingScores/blob/main/ch10bowlingScores/bowling2.PNG)
+
+![p](https://github.com/bell-kevin/ch10bowlingScores/blob/main/ch10bowlingScores/bowling4.PNG)
+
+Create a table of test cases BEFORE you write and run your project to calculate the correct results for different sets of bowling scores. Create 3 test cases. Run your code, enter the data from each test case, and compare your results to those test cases. Take screenshots of all 3 results.
+
+ 
+
+NOTE: Remember the requirements for a header and a pause at the end of the program, discussed in the reading "Console Applications". These are required in every console application project.
+
+Submission: Submit a single zipped folder containing all of the specified screenshots, the table of test cases  AND the root folder for the project.
 
 == We're Using GitHub Under Protest ==
 
